@@ -1,0 +1,12 @@
+total 0
+-rwxrwxrwx 1 laidoffworkerlearnstocode laidoffworkerlearnstocode   0 Sep  9 13:43 directory_content.txt
+-rwxrwxrwx 1 laidoffworkerlearnstocode laidoffworkerlearnstocode 139 Sep  9 12:12 interactiveshell.sh
+-rwxrwxrwx 1 laidoffworkerlearnstocode laidoffworkerlearnstocode  84 Sep  9 12:18 posargu.sh
+-rwxrwxrwx 1 laidoffworkerlearnstocode laidoffworkerlearnstocode  70 Sep  9 12:07 shelltest.sh
+-rwxrwxrwx 1 laidoffworkerlearnstocode laidoffworkerlearnstocode  14 Sep  9 11:26 textfile.txt
+total 0
+-rwxrwxrwx 1 laidoffworkerlearnstocode laidoffworkerlearnstocode 497 Sep  9 13:43 directory_content.txt
+-rwxrwxrwx 1 laidoffworkerlearnstocode laidoffworkerlearnstocode 139 Sep  9 12:12 interactiveshell.sh
+-rwxrwxrwx 1 laidoffworkerlearnstocode laidoffworkerlearnstocode  84 Sep  9 12:18 posargu.sh
+-rwxrwxrwx 1 laidoffworkerlearnstocode laidoffworkerlearnstocode  70 Sep  9 12:07 shelltest.sh
+-rwxrwxrwx 1 laidoffworkerlearnstocode laidoffworkerlearnstocode  14 Sep  9 11:26 textfile.txt
