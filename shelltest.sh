@@ -1,7 +1,7 @@
 #! /bin/bash
 
-SON=CHOUCHOU
-DOG=BETTY
+DOG1=MIMI
+DOG2=BETTY
 
-echo Hello $SON
-echo Hello $DOG
+echo Hello $DOG1
+echo Hello $DOG2
